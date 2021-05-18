@@ -140,6 +140,28 @@ Il existe différents type de dragon, plus ou moins rare, qui donnent du stuff p
 Plus le dragon est rare, plus le stuff qui est drop est fort. Mais le contenu du coffre reste aléatoire, les screens sont des exemples _\(véridiques, ils n'ont pas été amélioré pour le screen\)_.
 {% endhint %}
 
+## Pomiculture \(farming des pommes\)
+
+ Une toute nouvelle façon de vous faire de l'argent : récolter des pommes. Plus précisément **récolter des pommes d'une variété la plus rare possible**. 
+
+En coupant des arbres **en map ressource** vous looterez des pommes plus ou moins rare que vous pourrez revendre, parfois à très bon prix, au `/warp pomme`.
+
+ Vous avez aussi une chance très faible de looter une **bouteille de cidre au miel** que vous pourrez revendre vraiment très cher. **Les pousses** que vous lootez auront elles aussi une chance d'être **plus ou moins rare**. 
+
+Plus la pousse est rare, plus les pommes provenant de cet arbre \(si vous le faîte poussé\) aura des chances de **looter des pommes de variété rare**
+
+* [x] **Pousse exceptionnellement rare** \(0.05% de chance d'être droppée\)
+
+![](.gitbook/assets/image%20%2838%29.png)
+
+* [x] **Pousse rare** \(0.1% de chance d'être droppée\)
+
+![](.gitbook/assets/image%20%2840%29.png)
+
+* [x] **Pousse commune** \(correspond aussi aux arbres que vous trouvez dans la nature en map ressource\) \(1% de chance d'être droppée\) 
+
+![](.gitbook/assets/image%20%2839%29.png)
+
 ## Chevaux
 
 Lorsque vous sellez un cheval et que vous descendez de ce dernier après l'avoir monté, celui-ci disparait et vous donne une selle. Cette selle vous permet de faire réapparaitre votre cheval où vous le souhaitez. 
