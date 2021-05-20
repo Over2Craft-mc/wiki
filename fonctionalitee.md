@@ -162,6 +162,14 @@ Plus la pousse est rare, plus les pommes provenant de cet arbre \(si vous le fa�
 
 ![](.gitbook/assets/image%20%2839%29.png)
 
+## OverEgg
+
+Les **OverEgg** vous permettent de **capturer un mob** et les placer dans un oeuf. Vous pouvez ensuite les **relacher où vous le souhaitez**, ou même les **vendre à l'AH** avec un shop. 
+
+_Note : Les villageois peuvent être capturé uniquement sur les maps de construction et l'oeuf détaillera l'ensemble du des trades que propose le villageoi dans sa description_
+
+![Craft des OverEgg](.gitbook/assets/image%20%2842%29.png)
+
 ## Chevaux
 
 Lorsque vous sellez un cheval et que vous descendez de ce dernier après l'avoir monté, celui-ci disparait et vous donne une selle. Cette selle vous permet de faire réapparaitre votre cheval où vous le souhaitez. 
