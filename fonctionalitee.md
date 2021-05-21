@@ -200,6 +200,15 @@ Vous pouvez trouver et récolter les spawners que vous trouvez dans la nature av
 
 En posant votre spawner, vous pouvez faire un clic droit pour accéder au menu de gestion de votre spawner et payer en Over pour **changer le type de mobs et l'améliorer**.
 
+Les mobs sont soumis aux mêmes règles que les conditions de spawn des mobs en vanilla :
+
+* Les dauphins ne peuvent spawn que dans les biomes océans
+* Les animaux \(vaches, cochons, poules, lapins, moutons\) ne peuvent spawn que sur l'herbe et éclairé
+* Les champimeuh n'apparaissent que sur du mycellium avec un éclairage 
+* Les slims ne peuvent spawner que dans des chunks à slime
+
+Consultez le wiki Minecraft pour plus d'informations. 
+
 ## Collecteur automatique \(Autoshulker\)
 
 Vous pouvez créer des ShulkerBox spéciale \(AutoShulker\) qui récolteront automatiquement les blocs minés. Pour crafter une AutoShulker, poser simplement une Shulker, un livre, et le ou les items que vous souhaitez collecter automatiquement. 
