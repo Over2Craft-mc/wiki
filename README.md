@@ -12,3 +12,7 @@ Bienvenue sur l'Over2Wiki. Ici, tu trouveras la documentation la plus complète 
 * Règlement [ici](reglements/reglement.md)
 * Liste des sanctions [http://ban.over2craft.com](http://ban.over2craft.com)
 
+
+
+Tout droit réservés sur le contenu de ces pages © Over2Craft 2020-2021
+
