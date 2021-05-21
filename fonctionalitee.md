@@ -203,9 +203,8 @@ En posant votre spawner, vous pouvez faire un clic droit pour accéder au menu d
 Les mobs sont soumis aux mêmes règles que les conditions de spawn des mobs en vanilla :
 
 * Les dauphins ne peuvent spawn que dans les biomes océans
-* Les animaux \(vaches, cochons, poules, lapins, moutons\) ne peuvent spawn que sur l'herbe et éclairé
+* Les animaux \(vaches, cochons, poules, lapins, moutons\) ne peuvent spawn que sur l'herbe et avec de un éclairage \(torche, soleil...\)
 * Les champimeuh n'apparaissent que sur du mycellium avec un éclairage 
-* Les slims ne peuvent spawner que dans des chunks à slime
 
 Consultez le wiki Minecraft pour plus d'informations. 
 
