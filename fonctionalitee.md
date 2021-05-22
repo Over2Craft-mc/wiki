@@ -170,6 +170,64 @@ _Note : Les villageois peuvent être capturé uniquement sur les maps de constru
 
 ![Craft des OverEgg](.gitbook/assets/image%20%2842%29.png)
 
+{% tabs %}
+{% tab title="Liste des entités ne pouvant pas être capturé" %}
+Cliquez sur l'onglet "Spoiler"
+{% endtab %}
+
+{% tab title="Spoiler" %}
+
+
+* Boss spéciaux d'Over2Craft
+* Villageois en map ressource
+* AREA\_EFFECT\_CLOUD
+* ARMOR\_STAND
+* ARROW
+* BOAT
+* DONKEY
+* DRAGON\_FIREBALL
+* DROPPED\_ITEM
+* EGG
+* ELDER\_GUARDIAN
+* ENDER\_CRYSTAL
+* ENDER\_DRAGON
+* ENDERDRAGON
+* ENDER\_PEARL
+* ENDER\_SIGNAL
+* EVOKER\_FANGS
+* EXPERIENCE\_ORB
+* FALLING\_BLOCK
+* FIREBALL
+* FIREWORK
+* FISHING\_HOOK
+* ITEM\_FRAME
+* LEASH\_HITCH
+* LIGHTNING
+* LLAMA\_SPIT
+* MINECART
+* MINECART\_CHEST
+* MINECART\_COMMAND
+* MINECART\_FURNACE
+* MINECART\_HOPPER
+* MINECART\_MOB\_SPAWNER
+* MINECART\_TNT
+* PAINTING
+* PLAYER
+* PRIMED\_TNT
+* SHULKER\_BULLET
+* SMALL\_FIREBALL
+* SNOWBALL
+* SPECTRAL\_ARROW
+* SPLASH\_POTION
+* THROWN\_EXP\_BOTTLE
+* TRIDENT
+* WITHER
+* WITHER\_SKULL
+{% endtab %}
+{% endtabs %}
+
+
+
 ## Chevaux
 
 Lorsque vous sellez un cheval et que vous descendez de ce dernier après l'avoir monté, celui-ci disparait et vous donne une selle. Cette selle vous permet de faire réapparaitre votre cheval où vous le souhaitez. 
