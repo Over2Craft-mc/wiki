@@ -6,7 +6,7 @@ Pour garder le serveur le plus stable possible, des limites de mobs sont imposé
 
 {% tabs %}
 {% tab title="Résumé" %}
-En moyenne, les mobs sont limités à 20 par groupes de 9 chunks \(1 chunks plus tout ceux autour\). Clique sur l'autre onglet pour voir le détail des limites.
+En moyenne, les mobs sont limités à 20 par groupe de 9 chunks \(1 chunks plus tout ceux autour\). Clique sur l'autre onglet pour voir le détail des limites.
 {% endtab %}
 
 {% tab title="Détail des limites" %}
