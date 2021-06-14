@@ -24,3 +24,8 @@
 * [Gérer ses plots](creatif/gerer-ses-plots.md)
 * [Plugins](creatif/plugins.md)
 
+## Survie 1.17
+
+* [Echanger avec les joueurs](survie-1.17/untitled.md)
+* [Terrain et claim](survie-1.17/terrain-et-claim.md)
+
