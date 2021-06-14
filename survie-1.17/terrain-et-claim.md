@@ -14,6 +14,12 @@ Vous éditez soit celui par défaut si vous en avez qu'un seul, sinon la command
 
 `/territoire menu main` vous permet d'afficher le menu de tout les territoires. 
 
+## Villes \(territoire publiques\)
+
+Liste des territoires publique `/territoire list`
+
+
+
 ## Créer son territoire
 
 Vous pouvez créer votre territoire avec la commande `/territoire create <nom de votre territoire>`
