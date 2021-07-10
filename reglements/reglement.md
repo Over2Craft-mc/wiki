@@ -62,7 +62,7 @@ L’action de dissimuler ou altérer la vérité auprès des membres du staff es
 
 L’achat de monnaie virtuelle, objets ou encore services sur le serveur contre de l’argent réel est interdit. Le serveur se veut free to play, merci de le laisser ainsi.
 
-## RÈGLEMENT SPÉCIFIQUE AU SERVEUR SUIRVIE 1.17
+## RÈGLEMENT SPÉCIFIQUE AU SERVEUR SuRVIE 1.17
 
 ### Grief et vol dans le monde de construction
 
