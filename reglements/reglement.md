@@ -58,6 +58,42 @@ L'utilisation de comptes Minecraft secondaires pour contourner une sanction est 
 
 L’action de dissimuler ou altérer la vérité auprès des membres du staff est interdite. Si vous êtes suspectés de quoi que ce soit, soyez honnêtes et apportez des preuves de votre innocence. Fuir la justice ne vous apportera rien de bon !
 
+### Vente de monnaie virtuelle/objets contre de l’argent réel
+
+L’achat de monnaie virtuelle, objets ou encore services sur le serveur contre de l’argent réel est interdit. Le serveur se veut free to play, merci de le laisser ainsi.
+
+## RÈGLEMENT SPÉCIFIQUE AU SERVEUR SUIRVIE 1.17
+
+### Grief et vol dans le monde de construction
+
+Voler les matériaux, blocs ou objets d’un joueur est interdit, même si vous avez l’impression d’avoir trouvé une construction abandonnée. L’absence de pancarte de protection \(private\) ne signifie pas que cela n’appartient à personne !
+
+### Pièges mortels
+
+La réalisation de pièges mortels ou les tentatives d’assassinat par destruction ou pose de blocs sont interdites
+
+### Distributions massives
+
+La distribution massive de richesse sous forme d'item ou d'argent est interdite. Elle sera sévèrement sanctionné si elle a pour but de déstabiliser l'économie
+
+### Ender Dragon
+
+Le fait de prendre les items lootés par l'Ender Dragon lors de sa mort alors que vous n'avez pas été invité par celui qui a ressuscité l'Ender Dragon est interdit. En cas de conflit, c'est celui qui à ressuscité l'Ender Dragon qui aura raison. Si vous souhaitez vous-aussi faire réapparaître l'Ender Dragon, attendez que celui d'avant finisse.
+
+De même, si celui qui a ressuscité le dragon ne souhaite pas que vous participiez au combat, il peut vous demander de partir. Si vous restez, les modérateurs peuvent vous téléporter de force au spawn.
+
+{% hint style="info" %}
+Cette règle ne s'applique pas à la première apparition du dragon lors des resets de maps.
+{% endhint %}
+
+### Duplication d’items
+
+Contrairement aux fermes, les duplications d’item sont interdites, que cela soit fait par l’utilisation de machines ou le déplacement de vos constructions par l’équipe de modération.
+
+### Arnaque en tout genre
+
+Les arnaques en tout genre sont interdites, de même que pour les abus de confiances.
+
 ## RÈGLEMENT SPÉCIFIQUE AU SERVEUR FREEBUILD
 
 ### Grief et vol dans le monde Freebuild et Nether
