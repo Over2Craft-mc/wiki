@@ -2,6 +2,10 @@
 
 * [Over2Wiki](README.md)
 
+## Règlements
+
+* [Règlement](reglements/reglement.md)
+
 ## Freebuild / SEMI-RP
 
 ---
@@ -13,10 +17,6 @@
 * [Fonctionnalités](fonctionalitee.md)
 * [Enchantements](enchantements.md)
 * [Autres](autres.md)
-
-## Règlements
-
-* [Règlement](reglements/reglement.md)
 
 ## Créatif
 
