@@ -12,7 +12,16 @@ Bienvenue sur l'Over2Wiki. Ici, tu trouveras la documentation la plus complète 
 * Règlement [ici](reglements/reglement.md)
 * Liste des sanctions [http://ban.over2craft.com](http://ban.over2craft.com)
 
+## Apporter une modification au wiki en tant que joueur
 
+Vous pouvez utiliser github pour apporter une modification à ce wiki [https://github.com/Over2Craft-mc/wiki](https://github.com/Over2Craft-mc/wiki)
 
-Tout droit réservés sur le contenu de ces pages © Over2Craft 2020-2021
+* Il faudra d'abord vous créer un compte sur http://github.com
+* Rendez-vous ensuite sur le repository du wiki [https://github.com/Over2Craft-mc/wiki](https://github.com/Over2Craft-mc/wiki)
+* Chercher le fichier que vous souhaitez éditer, et cliquer sur le bouton "éditer" \(un petit crayon\)
+* Vous devrez ensuite vous laisser guider pour créer ce qu'on appelle une "Pull Request" que nous pourrons valider
+
+Si vous avez besoin d'aide pour ce processus \(qui est plus simple qu'il n'y parait\) n'hésitez pas à nous contacter sur Discord.
+
+## Tout droit réservés sur le contenu de ces pages © Over2Craft 2020-2021
 
