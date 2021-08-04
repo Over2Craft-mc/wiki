@@ -10,7 +10,6 @@ Bienvenue sur l'Over2Wiki. Ici, tu trouveras la documentation la plus complète 
 * Signaler un bug ou faire une suggestion [http://issue.over2craft.com](http://issue.over2craft.com)
 * Boutique et financement d'Over2Craft[ http://over2craft.com](%20http://over2craft.com)
 * Règlement [ici](reglements/reglement.md)
-* Liste des sanctions [http://ban.over2craft.com](http://ban.over2craft.com)
 
 ## Apporter une modification au wiki en tant que joueur
 
